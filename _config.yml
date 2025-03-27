@@ -1,0 +1,7 @@
+title: jeonbomin's DevOps Lab
+description: 금융권 프리랜서의 쿠버네티스 기반 CI/CD 실험기
+baseurl: ""
+url: "https://jeonbomin.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
